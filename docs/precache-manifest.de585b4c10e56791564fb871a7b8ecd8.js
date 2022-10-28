@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36ca6da2120138e289fb06dfde5b9230",
+    "revision": "833693d289d46d2fe911d8dc2c4d21f0",
     "url": "https://aicafe1.github.io/vnqa-sa/index.html"
   },
   {
-    "revision": "75b895426727e39c52ba",
+    "revision": "22196021542dca477bc4",
     "url": "https://aicafe1.github.io/vnqa-sa/static/css/2.5ee7db17.chunk.css"
   },
   {
-    "revision": "75b895426727e39c52ba",
-    "url": "https://aicafe1.github.io/vnqa-sa/static/js/2.851701ee.chunk.js"
+    "revision": "22196021542dca477bc4",
+    "url": "https://aicafe1.github.io/vnqa-sa/static/js/2.3caed8c3.chunk.js"
   },
   {
     "revision": "ae64cba97c68b91bd7e7d882ee6eb197",
-    "url": "https://aicafe1.github.io/vnqa-sa/static/js/2.851701ee.chunk.js.LICENSE"
+    "url": "https://aicafe1.github.io/vnqa-sa/static/js/2.3caed8c3.chunk.js.LICENSE"
   },
   {
-    "revision": "b64f9e4fcf757c1e2bb6",
-    "url": "https://aicafe1.github.io/vnqa-sa/static/js/main.5d4954b1.chunk.js"
+    "revision": "b7e10584b66e3ed7618c",
+    "url": "https://aicafe1.github.io/vnqa-sa/static/js/main.5a71e4eb.chunk.js"
   },
   {
     "revision": "945d447ee3746f5b6379",
