@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffd95d59bb1434d1b11d1c8fbc8fe542",
+    "revision": "c3757f4830bbe21d55d8338acf3e63be",
     "url": "https://aicafe1.github.io/vnqa-sa/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aicafe1.github.io/vnqa-sa/static/js/2.3caed8c3.chunk.js.LICENSE"
   },
   {
-    "revision": "8f5ac4b26e26dbacc517",
-    "url": "https://aicafe1.github.io/vnqa-sa/static/js/main.9e0d3f4d.chunk.js"
+    "revision": "f43154df88881c05867b",
+    "url": "https://aicafe1.github.io/vnqa-sa/static/js/main.19b5dbf6.chunk.js"
   },
   {
     "revision": "945d447ee3746f5b6379",

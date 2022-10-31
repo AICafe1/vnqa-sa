@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "https://aicafe1.github.io/vnqa-sa/static/js/main.9e0d3f4d.chunk.js",
+    "main.js": "https://aicafe1.github.io/vnqa-sa/static/js/main.19b5dbf6.chunk.js",
     "runtime-main.js": "https://aicafe1.github.io/vnqa-sa/static/js/runtime-main.d5812712.js",
     "static/css/2.5ee7db17.chunk.css": "https://aicafe1.github.io/vnqa-sa/static/css/2.5ee7db17.chunk.css",
     "static/js/2.3caed8c3.chunk.js": "https://aicafe1.github.io/vnqa-sa/static/js/2.3caed8c3.chunk.js",
     "index.html": "https://aicafe1.github.io/vnqa-sa/index.html",
-    "precache-manifest.fa958f34efa46bc7745e83fbc1509261.js": "https://aicafe1.github.io/vnqa-sa/precache-manifest.fa958f34efa46bc7745e83fbc1509261.js",
+    "precache-manifest.ed2fbe9aeac9c6572c0f1c5ee2c39ce3.js": "https://aicafe1.github.io/vnqa-sa/precache-manifest.ed2fbe9aeac9c6572c0f1c5ee2c39ce3.js",
     "service-worker.js": "https://aicafe1.github.io/vnqa-sa/service-worker.js",
     "static/js/2.3caed8c3.chunk.js.LICENSE": "https://aicafe1.github.io/vnqa-sa/static/js/2.3caed8c3.chunk.js.LICENSE"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.d5812712.js",
     "static/css/2.5ee7db17.chunk.css",
     "static/js/2.3caed8c3.chunk.js",
-    "static/js/main.9e0d3f4d.chunk.js"
+    "static/js/main.19b5dbf6.chunk.js"
   ]
 }
